@@ -42,7 +42,8 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Titolo dell'app
-st.title("✨ Analisi del Sentimento Multilingua")
+st.title("🌈 SENTI")
+st.markdown("**SENTI**: Sentiment Evaluation and Natural Text Interpretation")
 st.markdown("---")
 
 # Selezione della funzionalità
@@ -124,3 +125,7 @@ elif option == "Analizza Audio":
                     - **Polarità**: varia da -1 (molto negativo) a +1 (molto positivo)
                     - **Soggettività**: varia da 0 (oggettivo) a 1 (soggettivo)
                 """)
+
+# Footer
+st.markdown("---")
+st.markdown("(C) 2024 Mike Gazzaruso")
