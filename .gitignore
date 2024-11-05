@@ -1,0 +1,38 @@
+# Ambiente virtuale
+.venv/
+venv/
+env/
+env.bak/
+ENV/
+ENV.bak/
+
+# File temporanei
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# File di log
+*.log
+
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# File di configurazione dell'IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# File di output
+*.egg-info/
+dist/
+build/
+*.egg
+
+# File di configurazione di Streamlit
+*.streamlit/
+
+# File temporanei di audio
+temp_audio.wav

@@ -1,0 +1,9 @@
+streamlit==1.32.0
+textblob==0.17.1
+nltk==3.8.1
+vaderSentiment==3.3.2
+deep-translator==1.11.4
+langdetect==1.0.9
+SpeechRecognition==3.8.1
+pydub==0.25.1
+streamlit-webrtc==0.47.1
